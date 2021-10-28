@@ -1,4 +1,4 @@
-# Simulation_Foucault_pendulum
+# Simulation_Foucault_pendulum (2020)
 See intuitively on a large scale how Foucault's pendulum proves the rotation of the Earth around its axis.
 
 ## How to run
